@@ -28,7 +28,7 @@ DataScience-From-Scratch/
 
 ## 📅 Daily Progress
 
-I’m tracking my learning in a dedicated file: [progress.md](progress.md)
+I’m tracking my learning in a dedicated file: [progress.md](https://github.com/Vireshkamlapure/DataScience-From-Scratch/blob/main/Progress.md)
 
 ---
 
