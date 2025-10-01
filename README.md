@@ -20,21 +20,12 @@ DataScience-From-Scratch/
 ┃ ┗ code.py # Practice code
 ┣ Day02_Conditional_Statements/
 ┃ ┗ code.py # Practice code
-┣ README.md
-┗ progress.md
-
-
----
-
-## 📅 Daily Progress
-
-I’m tracking my learning in a dedicated file: [progress.md](https://github.com/Vireshkamlapure/DataScience-From-Scratch/blob/main/Progress.md)
+┗ README.md
 
 ---
 
 ## 📝 What’s Included
 - **code.py ** → Practice problems & exercises  
-- **progress.md** → Track daily learning and progress  
 
 ---
 
